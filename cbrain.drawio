@@ -31,8 +31,14 @@
         <mxCell id="dhxLmd8erm8z7lSD_FkU-5" value="Implement Testing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dhxLmd8erm8z7lSD_FkU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhxLmd8erm8z7lSD_FkU-10" target="dhxLmd8erm8z7lSD_FkU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dhxLmd8erm8z7lSD_FkU-10" value="Package in docker" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhxLmd8erm8z7lSD_FkU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhxLmd8erm8z7lSD_FkU-13" target="dhxLmd8erm8z7lSD_FkU-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dhxLmd8erm8z7lSD_FkU-13" value="Integrate into Cbrain&lt;div&gt;Applications&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="680" width="120" height="60" as="geometry" />
@@ -67,11 +73,20 @@
             <mxPoint x="350" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dhxLmd8erm8z7lSD_FkU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhxLmd8erm8z7lSD_FkU-24" target="dhxLmd8erm8z7lSD_FkU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dhxLmd8erm8z7lSD_FkU-24" value="Comunity Engagement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dhxLmd8erm8z7lSD_FkU-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dhxLmd8erm8z7lSD_FkU-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhxLmd8erm8z7lSD_FkU-25" target="dhxLmd8erm8z7lSD_FkU-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dhxLmd8erm8z7lSD_FkU-25" value="Collect Feedback &amp;amp; Iteerate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhxLmd8erm8z7lSD_FkU-26" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
